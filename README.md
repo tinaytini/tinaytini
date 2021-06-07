@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tinaytini
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on React
+- 📫 How to reach me tinaytini@yahoo.com
