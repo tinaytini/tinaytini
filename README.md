@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on React
 - 📫 How to reach me tinaytini@yahoo.com
+- 🔭 My portfolio https://tinatin-portfolio.surge.sh/
