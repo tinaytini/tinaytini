@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tinaytini
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript
+- 😍 I love coding
+- 🌱 I’m currently developing in JavaScript
 - 💞️ I’m looking to collaborate on React
 - 📫 How to reach me tinaytini@yahoo.com
 - 🔭 My portfolio https://tinatin-portfolio.surge.sh/
